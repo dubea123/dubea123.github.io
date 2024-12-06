@@ -7,12 +7,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-<!-- This is a comment -->
-<!-- We will add the body here -->
-
-
-<body>
     <header>
         <img src="My photo - Date (2).jpg" alt="Your Name">
         <h1>Arjun Dube</h1>
@@ -22,12 +16,11 @@
         <p>Akasa Office, Mumbai, 400011</p>
         <p>Office: GHC, +91 8928254201 </p>
 	<p>Email: <a href="mailto:arjundube47@gmail.com">arjundube47@gmail.com</a></p>
+href="https://<username>.github.io/">https://<username>.github.io/</a></p>
    </header>
-  
-    <header>
-    <main class="content">
+   <main class="content">
           <section>
-              <h2>This is heading 2</h2>
+              <h2>My Projects:</h2>
           </section>
           <section>
 	      <ul>
@@ -50,12 +43,4 @@
     </main>
 
 <body>
-
-
-
-
-	
-    
-</body>
 </html>
-
